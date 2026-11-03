@@ -1,4 +1,4 @@
-# 버전 태그(v0.17.3 등)를 올리면 InkUI 폴더를 zip으로 묶어 GitHub 릴리스에 붙인다.
+# 버전 태그(v0.18.0 등)를 올리면 FOA_UI 폴더를 zip으로 묶어 GitHub 릴리스에 붙인다.
 # WowUp은 이 릴리스의 zip과 release.json을 보고 설치 / 업데이트한다.
 name: release
 
@@ -20,8 +20,8 @@ jobs:
         run: |
           VER="${GITHUB_REF_NAME}"
           FILE="FOA_UI-${VER}.zip"
-          INTERFACE=$(grep -m1 '^## Interface:' InkUI/InkUI.toc | sed 's/## Interface: *//' | cut -d, -f1 | tr -d ' ')
-          zip -rq "$FILE" InkUI -x "*.DS_Store" "*.bak"
+          INTERFACE=$(grep -m1 '^## Interface:' FOA_UI/FOA_UI.toc | sed 's/## Interface: *//' | cut -d, -f1 | tr -d ' ')
+          zip -rq "$FILE" FOA_UI -x "*.DS_Store" "*.bak"
           cat > release.json <<EOF
           {"releases":[{"name":"FOA UI","version":"${VER}","filename":"${FILE}","nolib":false,"metadata":[{"flavor":"mainline","interface":${INTERFACE}}]}]}
           EOF

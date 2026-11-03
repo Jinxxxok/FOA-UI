@@ -17,7 +17,7 @@
 
 ### 직접 설치
 1. [Releases](https://github.com/Jinxxxok/foa-ui/releases) 에서 최신 `FOA_UI-vX.X.X.zip` 을 받습니다.
-2. 압축을 풀어 나온 `InkUI` 폴더를 `World of Warcraft/_retail_/Interface/AddOns/` 에 넣습니다.
+2. 압축을 풀어 나온 `FOA_UI` 폴더를 `World of Warcraft/_retail_/Interface/AddOns/` 에 넣습니다.
 3. 캐릭터 선택 화면의 **애드온** 목록에서 드롭다운을 **모든 캐릭터** 로 두고 FOA UI 를 켭니다.
 
 이미지(아이콘 / 글꼴)가 바뀐 버전으로 업데이트한 뒤에는 `/reload` 가 아니라 **게임을 완전히 껐다 켜야** 합니다.
@@ -60,5 +60,5 @@ FOA UI 와 같은 일을 하는 애드온과는 겹칩니다. 설정 창에서 �
 
 ## 사용한 자료와 라이선스
 
-- 글꼴: IBM Plex Sans KR, Inter, Space Grotesk — SIL Open Font License 1.1 (`InkUI/Media/Fonts` 에 라이선스 포함)
-- 아이콘: Lucide — ISC License (`InkUI/Media/Icons/LICENSE-lucide.txt`)
+- 글꼴: IBM Plex Sans KR, Inter, Space Grotesk — SIL Open Font License 1.1 (`FOA_UI/Media/Fonts` 에 라이선스 포함)
+- 아이콘: Lucide — ISC License (`FOA_UI/Media/Icons/LICENSE-lucide.txt`)
