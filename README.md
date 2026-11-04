@@ -1,7 +1,6 @@
 # FOA UI — First of All
 
 월드 오브 워크래프트 **본섭(리테일)** 용 통합 UI 애드온입니다.
-깔끔하지만 세련되고, 한눈에 필요한 정보가 들어오는 UI를 목표로 만들었습니다.
 
 > 포에버(WoW Forever)용은 [foa-ui-forever](https://github.com/Jinxxxok/foa-ui-forever) 저장소를 쓰세요.
 
