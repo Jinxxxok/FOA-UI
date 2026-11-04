@@ -19,6 +19,7 @@ L=['-- FOA UI · 전문화별 BIS 자료 (자동 생성 파일: 직접 고치지
    '\tcrafted = { '+', '.join(f'[{i}] = true' for i in sorted(crafted))+' },',
    '\ttier = { '+', '.join(f'[{i}] = true' for i in sorted(tier))+' },',
    '\tspecs = {']
+MANUAL_IDS = {'Thalassian Phoenix Oil': 243734}
 for key in sorted(allspec):
     d=allspec[key]
     gear=', '.join(f'[{it["inv"]}] = {it["id"]}' for it in d['gear'])
@@ -28,6 +29,8 @@ for key in sorted(allspec):
     for k in ('flask','potion','food','rune','oil'):
         c=d['cons'].get(k)
         if not c: continue
+        # SimC 아이템 표에 없는 소모품은 직접 번호 (wowhead)
+        if 'id' not in c and c.get('name') in MANUAL_IDS: c = {'id': MANUAL_IDS[c['name']]}
         co.append(f'{k} = {c["id"]}' if 'id' in c else f'{k} = "{esc(c["name"])}"')
     L.append(f'\t\t["{key}"] = {{ src = "{SRC[d["src"]]}", g = {{ {gear} }}, gem = {{ {gems} }}, en = {{ {en} }}, co = {{ {", ".join(co)} }} }},')
 L+=['\t},','}','']
