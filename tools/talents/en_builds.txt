@@ -1,0 +1,502 @@
+@ROGUE:combat
+10–11|Efficient Strikes|talents-spell_shadow_ritualofsacrifice|2/2
+12–14|Coup de Grace|talents-ability_rogue_eviscerate|3/3
+15–16|Precision|talents-ability_marksmanship|2/3
+17–19|Deflection|talents-ability_parry|3/3
+20|Riposte|talents-ability_warrior_challange|1/1
+21|Precision|talents-ability_marksmanship|3/3
+22–23|Endurance|talents-spell_shadow_shadowward|2/2
+24|Lightning Reflexes|talents-spell_nature_invisibilty|1/5
+25|Flawless Execution|talents-inv_sword_35|1/1
+26–28|Aggression|talents-ability_racial_avatar|3/3
+29|Weapon Expertise|talents-spell_holy_blessingofstrength|1/2
+30|Blade Flurry|talents-ability_warrior_punishingblow|1/1
+31–34|Hack and Slash|talents-inv_sword_27|4/5
+35|Weapon Expertise|talents-spell_holy_blessingofstrength|2/2
+36–37|Dual Wield Specialization|talents-ability_dualwield|2/2
+38|Hack and Slash|talents-inv_sword_27|5/5
+39|Flash of Steel|talents-ability_rogue_restlessblades|1/5
+40|Adrenaline Rush|talents-spell_shadow_shadowworddominate|1/1
+41–42|Flash of Steel|talents-ability_rogue_restlessblades|3/5
+43–47|Malice|talents-ability_racial_bloodrage|5/5
+48–50|Ruthlessness|talents-ability_druid_disembowel|3/3
+51–52|Improved Slice and Dice|talents-ability_rogue_slicedice|2/3
+53–54|Lethality|talents-ability_criticalstrike|2/2
+55–56|Vigor|talents-spell_nature_earthbindtotem|2/2
+57|Blood Splatter|talents-ability_rogue_rupture|1/1
+58|Cold Blood|talents-spell_ice_lament|1/1
+59–60|Vile Poisons|talents-ability_rogue_feigndeath|2/5
+@WARRIOR:arms
+10-12|Improved Rend|talents-ability_gouge|3/3
+13-14|Deflection|talents-ability_parry|2/5
+15-16|Improved Overpower|talents-inv_sword_05|2/2
+17-18|Improved Charge|talents-ability_warrior_charge|2/2
+19-21|Improved Tactical Mastery|talents-spell_nature_enchantarmor|3/3
+22|Anger Management|talents-spell_holy_blessingofstamina|1/1
+23-24|Deep Wounds|talents-ability_backstab|2/3
+25|Spearing Strike|talents-inv_spear_01|1/1
+26-28|Two-Handed Weapon Specialization|talents-inv_axe_09|3/3
+29|Deep Wounds|talents-ability_backstab|3/3
+30|Sweeping Strikes|talents-ability_rogue_slicedice|1/1
+31-32|Bloodthrill|talents-inv_sword_01|2/2
+33-34|Weaponmaster|talents-garrison_weaponupgrade|2/5
+35-36|Improved Slam|talents-ability_warrior_decisivestrike|2/2
+37-39|Weaponmaster|talents-garrison_weaponupgrade|5/5
+40|Mortal Strike|talents-ability_warrior_savageblow|1/1
+41-42|Impale|talents-ability_searingarrow|2/2
+43-47|Cruelty|talents-ability_rogue_eviscerate|5/5
+48-52|Lingering Rage|talents-ability_warrior_secondwind|5/5
+53-57|Unbridled Wrath|talents-spell_nature_stoneclawtotem|5/5
+58|Piercing Howl|talents-spell_shadow_deathscream|1/1
+59-60|Improved Bloodrage|talents-ability_racial_bloodrage|2/2
+@WARRIOR:fury
+10–14|Cruelty|talents-ability_rogue_eviscerate|5/5
+15–19|Unbridled Wrath|talents-spell_nature_stoneclawtotem|5/5
+20–22|Furious Precision|talents-ability_warrior_incite|3/3
+23–24|Lingering Rage|talents-ability_warrior_secondwind|2/5
+25–29|Dual Wield Specialization|talents-ability_dualwield|5/5
+30|Death Wish|talents-spell_shadow_deathpact|1/1
+31–35|Enrage|talents-spell_shadow_unholyfrenzy|5/5
+36|Raging Blows|talents-ability_whirlwind|1/1
+37–39|Flurry|talents-ability_ghoulfrenzy|3/5
+40|Bloodthirst|talents-spell_nature_bloodlust|1/1
+41–42|Flurry|talents-ability_ghoulfrenzy|5/5
+43–45|Improved Rend|talents-ability_gouge|3/3
+46–47|Improved Heroic Strike|talents-ability_rogue_ambush|2/3
+48–49|Improved Tactical Mastery|talents-spell_nature_enchantarmor|2/5
+50|Improved Heroic Strike|talents-ability_rogue_ambush|3/3
+51–53|Improved Tactical Mastery|talents-spell_nature_enchantarmor|5/5
+54–56|Deep Wounds|talents-ability_backstab|3/3
+57|Anger Management|talents-spell_holy_blessingofstamina|1/1
+58|Improved Execute|talents-inv_sword_48|1/2
+59–60|Impale|talents-ability_searingarrow|2/2
+@WARRIOR:prot
+10–14|Shield Specialization|talents-inv_shield_06|5/5
+15–17|Improved Thunder Clap|talents-ability_thunderclap|3/3
+18–19|Improved Bloodrage|talents-ability_racial_bloodrage|2/2
+20–21|Master of Defense|talents-ability_warrior_shieldguard|2/2
+22–24|Improved Revenge|talents-ability_warrior_revenge|3/3
+25|Vanguard|talents-ability_warrior_shieldcharge|1/1
+26|Last Stand|talents-spell_holy_ashestoashes|1/1
+27–29|Defiance|talents-ability_warrior_innerrage|3/3
+30|Concussion Blow|talents-ability_thunderbolt|1/1
+31–33|Focused Rage|talents-ability_warrior_focusedrage|3/3
+34|Improved Shield Wall|talents-ability_warrior_shieldwall|1/2
+35–39|Bastion|talents-inv_shield_04|5/5
+40|Shield Slam|talents-inv_shield_05|1/1
+41|Improved Shield Wall|talents-ability_warrior_shieldwall|2/2
+42–46|Cruelty|talents-ability_rogue_eviscerate|5/5
+47–51|Deflection|talents-ability_parry|5/5
+52–53|Improved Charge|talents-ability_warrior_charge|2/2
+54–58|Anticipation|talents-spell_nature_mirrorimage|5/5
+59–60|Improved Sunder Armor|talents-ability_warrior_sunder|2/3
+@PALADIN:holy
+10–14|Spiritual Focus|talents-spell_arcane_blink|5/5
+15–16|Reverence|talents-spell_holy_divineillumination|2/2
+17–19|Improved Seals|talents-ability_thunderbolt|3/5
+20–22|Healing Light|talents-spell_holy_holybolt|3/3
+23|Divine Favor|talents-spell_holy_heal|1/1
+24–28|Illumination|talents-spell_holy_greaterheal|5/5
+29|Holy Conduit|talents-spell_holy_devineaegis|1/2
+30|Holy Shock|talents-spell_holy_searinglight|1/1
+31|Holy Conduit|talents-spell_holy_devineaegis|2/2
+32–33|Infusion of Light|talents-ability_paladin_infusionoflight|2/2
+34|Oath of Light|spell_holy_greaterblessingoflight|1/1
+35–39|Holy Power|talents-spell_holy_power|5/5
+40|Light's Vigil|talents-ability_paladin_judgementofthepure|1/1
+41–42|Boundless Light|ability_paladin_sacredcleansing|2/2
+43–44|Divine Precision|spell_holy_mindsooth|2/2
+45–49|Divine Intellect|talents-spell_nature_sleep|5/5
+50–54|Benediction|talents-spell_frost_windwalkon|5/5
+55–56|Improved Judgement|talents-spell_holy_righteousfury|2/2
+57–59|Conviction|talents-spell_holy_retributionaura|3/3
+60|Improved Seals|talents-ability_thunderbolt|4/5
+@PALADIN:prot
+10–12|Benediction|spell_frost_windwalkon|3/5
+13–14|Benediction|spell_frost_windwalkon|5/5
+15–16|Holy Conduit|spell_holy_devineaegis|2/2
+17–18|Improved Judgement|spell_holy_righteousfury|2/2
+19|Deflection|ability_parry|1/5
+20|Pursuit of Justice|spell_holy_persuitofjustice|1/2
+21–24|Redoubt|ability_defend|4/5
+25|Redoubt|ability_defend|5/5
+26–28|Precision|ability_rogue_ambush|3/3
+29|Anticipation|spell_magic_lesserinvisibilty|1/5
+30|Anticipation|spell_magic_lesserinvisibilty|2/5
+@PALADIN:ret
+10–12|Benediction|spell_frost_windwalkon|3/5
+13–14|Benediction|spell_frost_windwalkon|5/5
+15–16|Improved Judgement|spell_holy_righteousfury|2/2
+17|Conviction|spell_holy_retributionaura|1/5
+18–19|Holy Conduit|spell_holy_devineaegis|2/2
+20|Seal of Command|ability_warrior_innerrage|1/1
+21–22|Pursuit of Justice|spell_holy_persuitofjustice|2/2
+23–24|Sanctified Judgement|ability_paladin_judgementblue|2/3
+25|Sacred Arbiter|inv_sword_08|1/1
+26|Sanctified Judgement|ability_paladin_judgementblue|3/3
+27–29|Vindication|spell_holy_vindication|3/3
+30|Repentance|spell_holy_prayerofhealing|1/1
+@HUNTER:bm
+10–14|Deadly Aspects|talents-spell_nature_ravenform|5/5
+15–16|Focused Fire|talents-inv_weapon_crossbow_10|2/2
+17–18|Improved Revive Pet|talents-ability_hunter_beastsoothe|2/2
+19|Endurance Training|talents-spell_nature_reincarnation|1/5
+20|Bestial Swiftness|talents-ability_druid_dash|1/1
+21–24|Unleashed Fury|talents-ability_bullrush|4/5
+25|Summon Hawk|talents-ability_hunter_animalhandler|1/1
+26|Unleashed Fury|talents-ability_bullrush|5/5
+27–29|Ferocity|talents-inv_misc_monsterclaw_04|3/5
+30|Intimidation|talents-ability_devour|1/1
+31|Pathfinding|talents-ability_mount_jungletiger|1/2
+32–33|Bestial Discipline|talents-spell_nature_abolishmagic|2/2
+34–35|Ferocity|talents-inv_misc_monsterclaw_04|5/5
+36–40|Frenzy|talents-inv_misc_monsterclaw_03|5/5
+41|Bestial Wrath|talents-ability_druid_ferociousbite|1/1
+42–46|Lethal Attacks|talents-ability_searingarrow|5/5
+47–51|Careful Aim|talents-ability_hunter_zenarchery|5/5
+52|Pathfinding|talents-ability_mount_jungletiger|2/2
+53–56|Endurance Training|talents-spell_nature_reincarnation|5/5
+57–59|Improved Stings|talents-ability_hunter_quickshot|3/3
+60|Hawk Eye|talents-ability_townwatch|1/3
+@HUNTER:mm
+10–14|Lethal Attacks|talents-ability_searingarrow|5/5
+15–19|Careful Aim|talents-ability_hunter_zenarchery|5/5
+20–21|Rapid Killing|talents-ability_hunter_rapidkilling|2/2
+22–24|Efficiency|talents-spell_frost_wizardmark|3/5
+25|Trueshot Aura|talents-ability_trueshot|1/1
+26–29|Mortal Shots|talents-ability_piercedamage|4/5
+30–31|Rapid Recuperation|talents-ability_hunter_rapidregeneration|2/2
+32|Mortal Shots|talents-ability_piercedamage|5/5
+33–34|Efficiency|talents-spell_frost_wizardmark|5/5
+35–39|Ranged Weapon Specialization|talents-inv_weapon_rifle_06|5/5
+40–44|Deadly Aspects|talents-spell_nature_ravenform|5/5
+45–46|Focused Fire|talents-inv_weapon_crossbow_10|2/2
+47–49|Endurance Training|talents-spell_nature_reincarnation|3/5
+50|Bestial Swiftness|talents-ability_druid_dash|1/1
+51|Scatter Shot|talents-ability_golemstormbolt|1/1
+52–55|Unleashed Fury|talents-ability_bullrush|4/5
+56–60|Improved Arcane Shot|talents-ability_impalingbolt|5/5
+@ROGUE:assassination
+10–14|Malice|talents-ability_racial_bloodrage|5/5
+15–16|Remorseless Attacks|talents-ability_fiegndead|2/2
+17–19|Ruthlessness|talents-ability_druid_disembowel|3/3
+20–21|Lethality|talents-ability_criticalstrike|2/2
+22–23|Vigor|talents-spell_nature_earthbindtotem|2/2
+24|Blood Splatter|talents-ability_rogue_rupture|1/1
+25|Cold Blood|talents-spell_ice_lament|1/1
+26–29|Vile Poisons|talents-ability_rogue_feigndeath|4/5
+30–34|Relentless Strikes|talents-ability_warrior_decisivestrike|5/5
+35–37|Seal Fate|talents-spell_shadow_chilltouch|3/3
+38|Venom|talents-inv_sword_31|1/1
+39|Vile Poisons|talents-ability_rogue_feigndeath|5/5
+40|Mutilate|talents-ability_rogue_deadlybrew|1/1
+41–42|Opportunity|talents-ability_warrior_warcry|2/5
+43–45|Coup de Grace|talents-ability_rogue_eviscerate|3/3
+46–47|Lightning Reflexes|talents-spell_nature_invisibilty|2/5
+48–50|Puncturing Wounds|talents-ability_backstab|3/3
+51–53|Precision|talents-ability_marksmanship|3/3
+54–56|Improved Slice and Dice|talents-ability_rogue_slicedice|3/3
+57–60|Improved Poisons|talents-ability_poisons|4/5
+@ROGUE:subtlety
+10-11|Opportunity|ability_warrior_warcry|2/2
+12|Camouflage|ability_stealth|1/5
+13-14|Camouflage|ability_stealth|3/5
+15-16|Setup|spell_nature_mirrorimage|2/3
+17-19|Improved Ambush|ability_rogue_ambush|3/3
+20|Ghostly Strike|spell_shadow_curse|1/1
+21|Setup|spell_nature_mirrorimage|3/3
+22-24|Initiative|spell_shadow_fumble|3/3
+25-27|Serrated Blades|inv_sword_17|3/3
+28-29|Camouflage|ability_stealth|5/5
+30|Hemorrhage|spell_shadow_lifedrain|1/1
+@PRIEST:disc
+10–11|Wand Specialization|inv_wand_01|2/2
+12–16|Twin Disciplines|spell_holy_sealofvengeance|5/5
+17–19|Mental Strength|spell_nature_enchantarmor|3/5
+20–22|Mental Agility|ability_hibernation|3/3
+23–25|Meditation|spell_nature_sleep|3/3
+26|Inner Focus|spell_frost_windwalkon|1/1
+27–29|Improved Power Word: Shield|spell_holy_powerwordshield|3/3
+30|Penance|spell_holy_penance|1/1
+31|Soul Warding|spell_holy_pureofheart|1/1
+32–33|Mental Strength|spell_nature_enchantarmor|5/5
+34–38|Renewed Hope|spell_holy_holyprotection|5/5
+39|Divine Aegis|spell_holy_devineaegis|1/3
+40|Power Infusion|spell_holy_powerinfusion|1/1
+41–42|Divine Aegis|spell_holy_devineaegis|3/3
+43–47|Holy Specialization|spell_holy_sealofsalvation|5/5
+48–52|Divine Fury|spell_holy_sealofwrath|5/5
+53–55|Twilight Focus|spell_holy_healingfocus|3/3
+56–58|Improved Renew|spell_holy_renew|3/3
+59–60|Improved Healing|spell_holy_heal02|2/3
+@PRIEST:holy
+10–11|Wand Specialization|inv_wand_01|2/2
+12–16|Twin Disciplines|spell_holy_sealofvengeance|5/5
+17–19|Mental Strength|spell_nature_enchantarmor|3/5
+20–22|Meditation|spell_nature_sleep|3/3
+23–27|Holy Specialization|spell_holy_sealofsalvation|5/5
+28–32|Divine Fury|spell_holy_sealofwrath|5/5
+33–35|Twilight Focus|spell_holy_healingfocus|3/3
+36|Holy Nova|spell_holy_holynova|1/1
+37|Improved Renew|spell_holy_renew|1/3
+38|Holy Binding|spell_holy_blindingheal|1/1
+39–41|Improved Healing|spell_holy_heal02|3/3
+42|Improved Renew|spell_holy_renew|2/3
+43–47|Spiritual Guidance|spell_holy_spiritualguidence|5/5
+48–50|Spiritual Healing|spell_nature_moonglow|3/3
+51|Spirit of Redemption|inv_enchant_essenceeternallarge|1/1
+52|Litany of Light|inv_scroll_07|1/2
+53|Prayer of Mending|spell_holy_prayerofmendingtga|1/1
+54|Litany of Light|inv_scroll_07|2/2
+55|Inner Focus|spell_frost_windwalkon|1/1
+56–58|Improved Power Word: Shield|spell_holy_powerwordshield|3/3
+59|Soul Warding|spell_holy_pureofheart|1/1
+60|Mental Strength|spell_nature_enchantarmor|4/5
+@PRIEST:shadow
+10–11|Wand Specialization|talents-inv_wand_01|2/2
+12–16|Spirit Tap|talents-spell_shadow_requiem|5/5
+17–18|Improved Shadow Word: Pain|talents-spell_shadow_shadowwordpain|2/2
+19–21|Improved Mind Blast|talents-spell_shadow_unholyfrenzy|3/5
+22|Mind Flay|talents-spell_shadow_siphonmana|1/1
+23–24|Improved Mind Flay|talents-spell_shadow_soulleech_2|2/2
+25–26|Improved Mind Blast|talents-spell_shadow_unholyfrenzy|5/5
+27|Shadow Focus|talents-spell_shadow_burningspirit|1/5
+28|Vampiric Embrace|talents-spell_shadow_unsummonbuilding|1/1
+29–33|Dark Inspiration|talents-spell_warlock_demonsoul|5/5
+34|Silence|talents-spell_shadow_impphaseshift|1/1
+35–36|Shadow Reach|talents-spell_shadow_chilltouch|2/2
+37–41|Darkness|talents-spell_shadow_twilight|5/5
+42|Shadowform|talents-spell_shadow_shadowform|1/1
+43–44|Early Demise|talents-spell_shadow_demonicfortitude|2/2
+45–48|Shadow Focus|talents-spell_shadow_burningspirit|5/5
+49–53|Twin Disciplines|talents-spell_holy_sealofvengeance|5/5
+54–56|Mental Strength|talents-spell_nature_enchantarmor|3/5
+57|Inner Focus|talents-spell_frost_windwalkon|1/1
+58–60|Meditation|talents-spell_nature_sleep|3/3
+@SHAMAN:enh
+10–14|Thundering Strikes|talents-ability_thunderbolt|5/5
+15–17|Mental Dexterity|talents-spell_nature_mentalquickness|3/3
+18–19|Improved Lightning Shield|talents-spell_nature_lightningshield|2/3
+20–22|Elemental Weapons|talents-spell_fire_flametounge|3/3
+23|Shamanistic Focus|talents-spell_nature_elementalabsorption|1/1
+24|Improved Lightning Shield|talents-spell_nature_lightningshield|3/3
+25–26|Improved Ghost Wolf|talents-spell_nature_spiritwolf|2/2
+27|Stormstrike|talents-ability_shaman_stormstrike|1/1
+28–29|Flurry|talents-ability_ghoulfrenzy|2/5
+30–31|Improved Stormstrike|talents-spell_shaman_improvedstormstrike|2/2
+32–33|Mental Quickness|talents-spell_nature_sleep|2/2
+34|Spirit Weapons|talents-ability_parry|1/1
+35–39|Concussion|talents-spell_nature_earthshock|5/5
+40–42|Call of Flame|talents-spell_fire_immolation|3/3
+43–45|Elemental Devastation|talents-spell_fire_elementaldevastation|3/3
+46|Elemental Focus|talents-spell_shadow_manaburn|1/1
+47–49|Convection|talents-spell_nature_wispsplode|3/5
+50–51|Trial by Fire|talents-spell_fire_sealoffire|2/2
+52|Earthbound|talents-spell_nature_stranglevines|1/1
+53–57|Tidal Focus|talents-spell_frost_manarecharge|5/5
+58–60|Mindfulness|talents-spell_nature_sleep|3/3
+@SHAMAN:ele
+10–14|Convection|talents-spell_nature_wispsplode|5/5
+15–17|Elemental Alacrity|talents-spell_lightning_lightningbolt01|3/3
+18–19|Concussion|talents-spell_nature_earthshock|2/5
+20|Elemental Focus|talents-spell_shadow_manaburn|1/1
+21–23|Concussion|talents-spell_nature_earthshock|5/5
+24|Call of Flame|talents-spell_fire_immolation|1/3
+25–27|Eye of the Storm|talents-spell_nature_eyeofthestorm|3/3
+28–29|Call of Flame|talents-spell_fire_immolation|3/3
+30|Call of Thunder|talents-spell_nature_lightning|1/1
+31–33|Lightning Overload|talents-spell_nature_lightningoverload|3/3
+34|Elemental Reach|talents-spell_nature_stormreach|1/2
+35–39|Elemental Fury|talents-spell_fire_volcano|5/5
+40|Lightning Mastery|talents-spell_nature_wispheal|1/1
+41|Elemental Reach|talents-spell_nature_stormreach|2/2
+42–46|Tidal Focus|talents-spell_frost_manarecharge|5/5
+47–49|Mindfulness|talents-spell_nature_sleep|3/3
+50–51|Improved Healing Wave|talents-spell_nature_magicimmunity|2/5
+52|Water Shield|talents-ability_shaman_watershield|1/1
+53–57|Thundering Strikes|talents-ability_thunderbolt|5/5
+58–59|Trial by Fire|talents-spell_fire_sealoffire|2/2
+60|Ancestral Knowledge|talents-spell_shadow_grimward|1/5
+@SHAMAN:resto
+10–14|Tidal Focus|talents-spell_frost_manarecharge|5/5
+15–17|Mindfulness|talents-spell_nature_sleep|3/3
+18–19|Improved Healing Wave|talents-spell_nature_magicimmunity|2/5
+20|Water Shield|talents-ability_shaman_watershield|1/1
+21–23|Healing Focus|talents-spell_nature_healingwavelesser|3/3
+24|Improved Healing Wave|talents-spell_nature_magicimmunity|3/5
+25|Mana Tide Totem|talents-spell_frost_summonwaterelemental|1/1
+26–29|Tidal Mastery|talents-spell_nature_tranquility|4/5
+30|Nature's Swiftness|talents-spell_nature_ravenform|1/1
+31–33|Healing Way|talents-spell_nature_healingway|3/3
+34|Tidal Mastery|talents-spell_nature_tranquility|5/5
+35–39|Purification|talents-spell_frost_wizardmark|5/5
+40|Riptide|talents-spell_nature_riptide|1/1
+41–45|Thundering Strikes|talents-ability_thunderbolt|5/5
+46–47|Improved Ghost Wolf|talents-spell_nature_spiritwolf|2/2
+48–49|Improved Healing Wave|talents-spell_nature_magicimmunity|5/5
+50–54|Restorative Totems|talents-spell_nature_manaregentotem|5/5
+55–57|Ancestral Healing|talents-spell_nature_undyingstrength|3/3
+58–60|Natural Grace|talents-spell_nature_healingtouch|3/3
+@MAGE:arcane
+10–11|Wand Specialization|inv_wand_01|2/2
+12|Improved Channeling|spell_nature_starfall|1/5
+13–14|Improved Channeling|spell_nature_starfall|3/5
+15–16|Arcane Subtlety|spell_holy_dispelmagic|2/2
+17–19|Arcane Concentration|spell_shadow_manaburn|3/5
+20|Arcane Blast|spell_arcane_blast|1/1
+21–22|Arcane Concentration|spell_shadow_manaburn|5/5
+23–24|Arcane Impact|spell_nature_wispsplode|2/3
+25–27|Arcane Meditation|spell_shadow_siphonmana|3/3
+28|Missile Barrage|ability_mage_missilebarrage|1/2
+29|Arcane Impact|spell_nature_wispsplode|3/3
+30|Presence of Mind|spell_nature_enchantarmor|1/1
+@MAGE:fire
+10-11|Improved Fire Blast|spell_fire_lavaspawn|2/2
+12|Improved Fireball|spell_fire_flamebolt|1/5
+13-14|Improved Fireball|spell_fire_flamebolt|3/5
+15-16|Ignite|spell_fire_incinerate|2/5
+17-19|Ignite|spell_fire_incinerate|5/5
+20|Pyroblast|spell_fire_fireball02|1/1
+21-22|Improved Fireball|spell_fire_flamebolt|5/5
+23-24|Burning Soul|spell_fire_fire|2/3
+25|Heating Up|spell_fire_firebolt|1/1
+26-28|Master of Elements|spell_fire_masterofelements|3/3
+29|Burning Soul|spell_fire_fire|3/3
+30|Blast Wave|spell_holy_excorcism_02|1/1
+@MAGE:frost
+10–14|Improved Frostbolt|talents-spell_frost_frostbolt02|5/5
+15–17|Frostbite|talents-spell_frost_frostarmor|3/3
+18–19|Ice Shards|talents-spell_frost_iceshard|2/5
+20|Ice Lance|talents-spell_frost_frostblast|1/1
+21–22|Improved Frost Nova|talents-spell_frost_freezingbreath|2/2
+23|Frost Channeling|talents-spell_frost_stun|1/3
+24–26|Ice Shards|talents-spell_frost_iceshard|5/5
+27–29|Shatter|talents-spell_frost_frostshock|3/3
+30–31|Fingers of Frost|talents-ability_mage_wintersgrasp|2/2
+32–33|Frost Channeling|talents-spell_frost_stun|3/3
+34|Ice Block|talents-spell_frost_frost|1/1
+35|Arctic Reach|talents-spell_shadow_darkritual|1/2
+36|Cold Snap|talents-spell_frost_wizardmark|1/1
+37–41|Winter's Chill|talents-spell_frost_chillingblast|5/5
+42|Ice Barrier|talents-spell_ice_lament|1/1
+43–45|Improved Cone of Cold|talents-spell_frost_glacier|3/3
+46|Arctic Reach|talents-spell_shadow_darkritual|2/2
+47–49|Incineration|talents-spell_fire_flameshock|3/5
+50|Improved Blizzard|talents-spell_frost_icestorm|1/3
+51–52|Permafrost|talents-spell_frost_wisp|2/3
+53–55|Precision|talents-spell_ice_magicdamage|3/3
+56|Permafrost|talents-spell_frost_wisp|3/3
+57–58|Improved Blizzard|talents-spell_frost_icestorm|3/3
+59–60|Frost Warding|talents-spell_frost_frostward|2/2
+@WARLOCK:aff
+10–14|Improved Corruption|talents-spell_shadow_abominationexplosion|5/5
+15–19|Suppression|talents-spell_shadow_unsummonbuilding|5/5
+20–24|Unholy Power|talents-spell_shadow_shadowworddominate|5/5
+25–26|Demonic Energies|talents-spell_shadow_felmending|2/2
+27–29|Improved Drains|talents-spell_shadow_haunting|3/3
+30|Amplify Curse|talents-spell_shadow_contagion|1/1
+31–32|Improved Life Tap|talents-spell_shadow_burningspirit|2/2
+33–34|Improved Bane of Agony|talents-spell_shadow_curseofsargeras|2/2
+35–37|Pandemic|talents-spell_shadow_unstableaffliction_2|3/3
+38–40|Soul Siphon|talents-spell_shadow_lifedrain02|3/3
+41–45|Malevolence|talents-spell_shadow_focusedpower|5/5
+46–50|Shadow Mastery|talents-spell_shadow_shadetruesight|5/5
+51|Siphon Life|talents-spell_shadow_requiem|1/1
+52–54|Fel Concentration|talents-spell_shadow_fingerofdeath|3/3
+55–56|Nightfall|talents-spell_shadow_twilight|2/2
+57–60|Improved Shadow Bolt|talents-spell_shadow_shadowbolt|4/5
+@WARLOCK:demo
+10–14|Unholy Power|spell_shadow_shadowworddominate|5/5
+15–16|Demonic Energies|spell_shadow_felmending|2/2
+17–19|Fel Vitality|spell_shadow_demonictactics|3/3
+20–24|Demonic Embrace|spell_shadow_metamorphosis|5/5
+25–27|Demonic Brand|ability_demonhunter_chaoticimprint_fire|3/3
+28|Demonic Sacrifice|spell_shadow_psychicscream|1/1
+29|Demonic Aegis|spell_shadow_ragingscream|1/2
+30|Soul Link|spell_shadow_gathershadows|1/1
+31–33|Demonic Knowledge|spell_shadow_improvedvampiricembrace|3/3
+34|Demonic Aegis|spell_shadow_ragingscream|2/2
+35–39|Master Demonologist|spell_shadow_shadowpact|5/5
+40|Demonic Pact|inv_ability_soulharvesterwarlock_demonicsoul|1/1
+41–45|Improved Corruption|spell_shadow_abominationexplosion|5/5
+46–50|Bane|spell_shadow_deathpact|5/5
+51–53|Cataclysm|spell_fire_windsofwoe|3/3
+54–58|Improved Shadow Bolt|spell_shadow_shadowbolt|5/5
+59–60|Decimation|spell_fire_fireball02|2/2
+@WARLOCK:destro
+10–12|Bane|spell_shadow_deathpact|3/5
+13–14|Bane|spell_shadow_deathpact|5/5
+15–16|Destructive Reach|spell_shadow_corpseexplode|2/2
+17–19|Cataclysm|spell_fire_windsofwoe|3/3
+20|Shadowburn|spell_shadow_scourgebuild|1/1
+21–24|Molten Skin|ability_mage_moltenarmor|4/5
+25|Conflagrate|spell_fire_fireball|1/1
+26–28|Agonizing Flames|spell_fire_soulburn|3/3
+29|Molten Skin|ability_mage_moltenarmor|5/5
+30|Bane of Havoc|ability_warlock_baneofhavoc|1/1
+@DRUID:balance
+10-12|Improved Wrath|spell_nature_abolishmagic|3/5
+13-14|Improved Wrath|spell_nature_abolishmagic|5/5
+15-16|Moonglow|spell_nature_sentinal|2/3
+17|Moonglow|spell_nature_sentinal|3/3
+18-19|Nature's Majesty|inv_staff_01|2/2
+20|Improved Entangling Roots|spell_nature_stranglevines|1/3
+21|Nature's Splendor|spell_nature_natureresistancetotem|1/1
+22-23|Improved Moonfire|spell_nature_starfall|2/2
+24|Nature's Reach|spell_nature_naturetouchgrow|1/2
+25|Insect Swarm|spell_nature_insectswarm|1/1
+26-29|Vengeance|spell_nature_purge|4/5
+30|Nature's Grace|spell_nature_naturesblessing|1/1
+@DRUID:feral
+10–12|Ferocity|ability_hunter_pet_hyena|3/5
+13–14|Ferocity|ability_hunter_pet_hyena|5/5
+15–16|Heart of the Wild|spell_holy_blessingofagility|2/5
+17|Heart of the Wild|spell_holy_blessingofagility|3/5
+18–19|Feral Swiftness|spell_nature_spiritwolf|2/2
+20|Feral Charge|ability_hunter_pet_bear|1/1
+21–22|Sharpened Claws|inv_misc_monsterclaw_04|2/2
+23–24|Savage Fury|ability_druid_ravage|2/2
+25–27|Predatory Strikes|ability_hunter_pet_cat|3/3
+28–29|Blood Frenzy|ability_ghoulfrenzy|2/2
+30|Leader of the Pack|spell_nature_unyeildingstamina|1/1
+@DRUID:guardian
+10–14|Ferocity|talents-ability_hunter_pet_hyena|5/5
+15–17|Thick Hide|talents-inv_misc_pelt_bear_03|3/3
+18–19|Feral Instinct|talents-ability_ambush|2/3
+20–21|Savage Fury|talents-ability_druid_ravage|2/2
+22–23|Sharpened Claws|talents-inv_misc_monsterclaw_04|2/2
+24|Feral Charge|talents-ability_hunter_pet_bear|1/1
+25|Lacerate|ability_druid_lacerate|1/1
+26–27|Blood Frenzy|talents-ability_ghoulfrenzy|2/2
+28–30|Predatory Strikes|talents-ability_hunter_pet_cat|3/3
+31|Leader of the Pack|talents-spell_nature_unyeildingstamina|1/1
+32|Feral Instinct|talents-ability_ambush|3/3
+33–34|Natural Instinct|talents-ability_druid_predatoryinstincts|2/2
+35–39|Natural Reaction|talents-ability_bullrush|5/5
+40|Primal Bite|talents-ability_racial_cannibalize|1/1
+41–45|Rend and Tear|talents-ability_druid_primalagression|5/5
+46–50|Heart of the Wild|talents-spell_holy_blessingofagility|5/5
+51–55|Genesis|talents-spell_arcane_arcane03|5/5
+56–57|Nature's Majesty|talents-inv_staff_01|2/2
+58–59|Nature's Reach|talents-spell_nature_naturetouchgrow|2/2
+60|Furor|talents-spell_holy_blessingofstamina|1/5
+@DRUID:resto
+10–14|Improved Wrath|talents-spell_nature_abolishmagic|5/5
+15–19|Nature's Focus|talents-spell_nature_healingwavegreater|5/5
+20–24|Naturalist|talents-spell_nature_healingtouch|5/5
+25–27|Reflection|talents-spell_frost_windwalkon|3/3
+28–29|Gift of Nature|talents-spell_nature_protectionformnature|2/5
+30|Swiftmend|talents-inv_relics_idolofrejuvenation|1/1
+31–33|Improved Rejuvenation|talents-spell_nature_rejuvenation|3/3
+34|Bloom|inv_misc_herb_felblossom|1/1
+35–37|Moonglow|talents-spell_nature_sentinal|3/3
+38–40|Living Spirit|talents-spell_nature_giftofthewaterspirit|3/3
+41|Nature's Swiftness|talents-spell_nature_ravenform|1/1
+42–44|Gift of Nature|talents-spell_nature_protectionformnature|5/5
+45–47|Improved Regrowth|talents-spell_nature_resistnature|3/5
+48|Wild Growth|talents-ability_druid_flourish|1/1
+49–50|Improved Regrowth|talents-spell_nature_resistnature|5/5
+51–55|Heart of the Wild|talents-spell_holy_blessingofagility|5/5
+56–57|Nature's Majesty|talents-inv_staff_01|2/2
+58|Nature's Splendor|talents-spell_nature_natureresistancetotem|1/1
+59–60|Improved Tranquility|talents-spell_nature_tranquility|2/2
