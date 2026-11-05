@@ -61,3 +61,9 @@ FOA UI 와 같은 일을 하는 애드온과는 겹칩니다. 설정 창에서 �
 
 - 글꼴: IBM Plex Sans KR, Inter, Space Grotesk — SIL Open Font License 1.1 (`FOA_UI/Media/Fonts` 에 라이선스 포함)
 - 아이콘: Lucide — ISC License (`FOA_UI/Media/Icons/LICENSE-lucide.txt`)
+
+## 자료 출처
+
+- 던전 보스 · 전리품, 퀘스트 · 비행 지점 자료: [AllTheThings](https://github.com/ATTWoWAddon/AllTheThings) (MIT License · `FOA_UI/LICENSE-AllTheThings.txt`)
+- 던전 한글 이름 · 권장 레벨 · 보스 순서, 직업 기술 레벨, 전문기술 빠른 레벨링 경로, 특성 레벨업 순서: [wowf.io](https://wowf.io/ko)
+- 아이콘: [Lucide](https://lucide.dev) (ISC License · `FOA_UI/Media/Icons/LICENSE-lucide.txt`)
