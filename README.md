@@ -9,10 +9,11 @@
 
 ## 설치
 
-### WowUp으로 설치 (자동 업데이트)
-1. WowUp에서 **Get Addons → Install from URL** 을 누릅니다.
-2. 주소에 `https://github.com/Jinxxxok/foa-ui` 를 넣고 설치합니다.
-3. 이후 새 버전이 나오면 WowUp에서 업데이트만 누르면 됩니다.
+### WowUp으로 설치 (자동 업데이트 · 추천)
+1. WowUp 위쪽에서 게임 버전을 **World of Warcraft (Retail)** 로 고릅니다.
+2. **Get Addons(애드온 받기)** 에서 `FOA` 를 검색해 설치합니다.
+   (검색에 아직 안 나오면 **Install from URL** 에 `https://github.com/Jinxxxok/FOA-UI` 를 넣어도 똑같이 설치됩니다.)
+3. 새 버전이 올라오면 WowUp 에 업데이트가 뜹니다. **업데이트 → 게임 접속** 하면 끝입니다.
 
 ### 직접 설치
 1. [Releases](https://github.com/Jinxxxok/foa-ui/releases) 에서 최신 `FOA_UI-vX.X.X.zip` 을 받습니다.

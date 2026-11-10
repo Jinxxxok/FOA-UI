@@ -36,9 +36,13 @@ jobs:
       - name: Build zip
         if: steps.ver.outputs.skip == 'false'
         run: |
+          # WowUp Hub 이 본섭용으로만 알아보게: 포에버 인터페이스(16001)는 빼고 + 본섭 TOC(_Mainline) + release.json(flavor mainline)
           FILE="FOA_UI-${TAG}.zip"
-          zip -rq "$FILE" FOA_UI -x "*.DS_Store" "*.bak"
-          INTERFACE=$(grep -m1 '^## Interface:' FOA_UI/FOA_UI.toc | sed 's/## Interface: *//' | cut -d, -f1 | tr -d ' ')
+          rm -rf build && mkdir build && cp -r FOA_UI build/
+          sed -i -E 's/, *16001//; s/16001, *//' build/FOA_UI/FOA_UI.toc
+          cp build/FOA_UI/FOA_UI.toc build/FOA_UI/FOA_UI_Mainline.toc
+          (cd build && zip -rq "../$FILE" FOA_UI -x "*.DS_Store" "*.bak")
+          INTERFACE=$(grep -m1 '^## Interface:' build/FOA_UI/FOA_UI.toc | sed 's/## Interface: *//' | cut -d, -f1 | tr -d ' ')
           cat > release.json <<EOF2
           {"releases":[{"name":"FOA UI","version":"${TAG}","filename":"${FILE}","nolib":false,"metadata":[{"flavor":"mainline","interface":${INTERFACE}}]}]}
           EOF2
